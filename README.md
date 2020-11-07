@@ -3,5 +3,5 @@
 A Web Project using .NET Core and React.
 
 
-Developer
+Developer:
 Sanjay Lama
